@@ -24,22 +24,27 @@ public class Main{
         st1.gender = 'M';
         st1.marks = 152;
 
-        Student[] arr = new Student[3];
+        // Student[] arr = new Student[3];
 
-        arr[0] = st;
-        arr[1] = st1;
+        // arr[0] = st;
+        // arr[1] = st1;
 
-        arr[2] = new Student();
-        arr[2].name = "Chetan";
-        arr[2].roll = 3;
-        arr[2].gender = 'M';
-        arr[2].marks = 95;
+        // arr[2] = new Student();
+        // arr[2].name = "Chetan";
+        // arr[2].roll = 3;
+        // arr[2].gender = 'M';
+        // arr[2].marks = 95;
 
-        System.out.println(arr[2].name);
-        System.out.println(arr[2].roll);
-        System.out.println(arr[2].gender);
-        System.out.println(arr[2].marks);
+        // System.out.println(arr[2].name);
+        // System.out.println(arr[2].roll);
+        // System.out.println(arr[2].gender);
+        // System.out.println(arr[2].marks);
 
+        // System.out.println("///////////");
+        // System.out.println(arr[0].name);
+        // System.out.println(arr[0].roll);
+        // System.out.println(arr[0].gender);
+        // System.out.println(arr[0].marks);
         
     }
 }
